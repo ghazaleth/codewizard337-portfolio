@@ -51,8 +51,8 @@ export const skillCat = {
 		categoryName: 'Design',
 		percentage: 30,
 		skillList: [
-			{ name: 'Photoshop', xp: '15 YRS', icon: psIcon },
-			{ name: 'Figma', xp: '1 YR', icon: figmaIcon },
+			{ name: 'Photoshop', xp: '10 YRS', icon: psIcon },
+			{ name: 'Figma', xp: '2 YR', icon: figmaIcon },
 			{ name: 'wordpress', xp: '5 YRS', icon: wordpressIcon },
 			{ name: 'shopify', xp: '5 YRS', icon: shopifyIcon },
 		],
