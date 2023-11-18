@@ -5,7 +5,7 @@
 My personal portfolio which features the most recent projects I worked on as well as my resume and technical skills. \
 The website is live **[here.](https://codewizard337.github.io)**
 
-<img src="https://github.com/codewizard337/codewizard337.github.io/blob/master/gif/portfolio.gif">
+<img src="https://github.com/codewizard337/codewizard337.github.io//master/gif/portfolio.gif">
 
 ## Sections 📚
 ✔️ About me \
