@@ -7,7 +7,6 @@ The website is live **[here.](https://codewizard337.github.io)**
 
 <img src="https://github.com/codeWizard337/codewizard337-portfolio/blob/master/gif/portfolio.gif">
 
-
 ## Sections 📚
 ✔️ About me \
 ✔️ Skills \
